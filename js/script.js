@@ -77,3 +77,5 @@ function writeYourGenres() {
 };
 
 writeYourGenres()
+
+console.log("hi")
