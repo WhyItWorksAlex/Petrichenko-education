@@ -1,1 +1,4 @@
-This is educational project
+# Educational project about films
+
+* Студент: [Aleksandr Fishman]
+* Наставник: [Ivan Petrichenko]
